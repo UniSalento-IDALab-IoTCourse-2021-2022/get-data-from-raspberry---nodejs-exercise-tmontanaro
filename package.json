@@ -10,6 +10,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-dht-sensor": "^0.4.3"
   }
 }
